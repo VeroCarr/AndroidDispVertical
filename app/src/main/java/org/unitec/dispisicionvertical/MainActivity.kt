@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         //Vamos a invocar el servicio del vibrador
 
-            //***side note
+            //***side notekkkkkkkkkkkkk
                 //getSystemService proviene del metodo AppCompatActivity
                 //getSystemService: este metodo nos obtiene un servicio del sistema, el que le
                     //pasemos como argumento (.Vibrator_Service)
